@@ -28,6 +28,7 @@
 - [🚀 Top Open-Source GitHub Projects](#-top-open-source-github-projects)
 - [🛠️ Architectural Blueprints for Edge AI](#️-architectural-blueprints-for-edge-ai)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsor](#-support--sponsor)
 - [⭐ Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
@@ -138,12 +139,33 @@ Curated list of leading open-source projects for edge Kubernetes distributions, 
 
 ---
 
+## 💖 Support & Sponsor
+
+If you find this repository valuable for your research, team, or edge infrastructure projects, thank you for supporting the journey!
+
+Here are ways you can support:
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** by adding new tools or updating pricing & feature details.
+- 📢 **Share with your network**, colleagues, or community on LinkedIn, X, and Reddit.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new curated resources, you can sponsor directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Every bit of support is deeply appreciated!
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
 ## ⭐ Star History
 
 <p align="center">
-  <a href="https://star-history.com/#ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI&Date">
-    <img src="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI&type=Date" alt="Star History Chart" width="100%" />
+  <a href="https://www.star-history.com/#ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI&type=date&legend=top-left">
+    <img src="https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI&type=date&legend=top-left" alt="Star History Chart" width="100%" />
   </a>
+</p>
+<p align="center">
+  [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI&type=date&legend=top-left)
 </p>
 
 ---
