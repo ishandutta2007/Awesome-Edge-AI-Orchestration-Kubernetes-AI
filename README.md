@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edge-AI-Orchestration-Kubernetes-AI/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -61,9 +61,9 @@ The following table compares leading commercial and enterprise SaaS platforms fo
 
 ## 🚀 Top Open-Source GitHub Projects
 
-Curated list of leading open-source projects for edge Kubernetes distributions, GPU scheduling, lightweight runtimes, model serving, and IoT edge networking. **Sorted by GitHub Stars (Descending)**.
+Curated list of leading open-source projects for edge Kubernetes distributions, GPU scheduling, lightweight runtimes, model serving, and IoT edge networking. **Sorted by GitHub_Stars (Descending)**.
 
-| Project | Stars | Focus Category | Description |
+| Project | GitHub_Stars | Focus Category | Description |
 | :--- | :--- | :--- | :--- |
 | **[Ollama](https://github.com/ollama/ollama)** | [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | Edge LLM Serving | Lightweight model runner and REST API server frequently containerized on edge K3s nodes for local quantization and low-latency LLM inference. |
 | **[vLLM](https://github.com/vllm-project/vllm)** | [![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) | GPU Inference Engine | High-throughput, memory-efficient LLM inference and serving engine widely deployed inside Kubernetes clusters via PagedAttention and OpenAI-compatible APIs. |
